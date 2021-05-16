@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0; }
+
+.img {
+  float: left;
+  shape-outside: polygon(38% 37%, 40% 49%, 44% 64%, 44% 71%, 47% 82%, 61% 81%, 61% 94%, 12% 92%, 36% 12%, 38% 17%, 39% 22%, 38% 26%); }
+
+.text {
+  color: white; }
+
+/*# sourceMappingURL=style.min.css.map */
